@@ -1,0 +1,16 @@
+#scrollTop {
+	display: none;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	z-index: 100;
+	font-size: 30px;
+	border: none;
+	outline: none;
+	background-color: #8831DE;
+	color: white;
+	cursor: pointer;
+	padding: 7px 20px 0px 20px;
+	border-radius: 50%;
+	box-shadow: 3px 3px 10px #401070;
+}
